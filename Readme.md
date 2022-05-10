@@ -11,7 +11,8 @@ In this project I am going to learn how to convert .pdf file to .mp3.
 1. Clone this repository on your computer
 `https://github.com/paveldat/pdf_to_mp3.git`
 2. Install all the requirements
-`run libraries.bat`
+`run libraries.bat` or
+`pip install -r requirements.txt`
 3. Run the program
 `python main.py`
 
