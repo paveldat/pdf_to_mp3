@@ -1,0 +1,4 @@
+gtts
+pdfplumber
+art
+pathlib
