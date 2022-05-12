@@ -6,6 +6,7 @@ In this project I am going to learn how to convert .pdf file to .mp3.
 * Can create an audiobook
 * Supports two languages: Russian and English
 * Saves the file name
+
 ## How to install
 1. Clone this repository on your computer
 `https://github.com/paveldat/pdf_to_mp3.git`
